@@ -1,4 +1,4 @@
-Navigraph Simlink for MSFS 2020 on Linux (Steam Flatpak)
+#Navigraph Simlink for MSFS 2020 on Linux (Steam Flatpak)
 A seamless, automated solution to get Navigraph Simlink running and communicating with Microsoft Flight Simulator 2020 on Linux, specifically designed for the Steam Flatpak environment.
 
 🛩️ The Problem
